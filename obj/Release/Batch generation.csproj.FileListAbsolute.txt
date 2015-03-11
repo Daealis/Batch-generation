@@ -1,0 +1,15 @@
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\bin\Release\Batch generation.exe.config
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\bin\Release\Batch generation.exe
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\bin\Release\Batch generation.pdb
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.Form1.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.Properties.Resources.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.query_if.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.query_multiEcho.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.query_pause.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.query_userVar.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.query_var.resources
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch generation.csproj.GenerateResource.Cache
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch generation.exe
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch generation.pdb
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch generation.csprojResolveAssemblyReference.cache
+C:\Users\Daealis\Documents\Visual Studio 2012\Projects\Batch generation\Batch generation\obj\Release\Batch_generation.echo_parameters.resources
